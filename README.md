@@ -1,3 +1,17 @@
+# Colaboradores
+
+*César González 14-10423*
+
+*Rebeca Ledesma 15-10771*
+
+*Yerimar Manzo 14-10611*
+
+*Samuel Sánchez 18-11093*
+
+*Amaranta Villegas 16-11247*
+
+## Universidad Simón Bolívar SD2024
+
 # ![NodeBB](public/images/sm-card.png)
 
 [![Workflow](https://github.com/CMU-313/NodeBB/actions/workflows/test.yaml/badge.svg)](https://github.com/CMU-313/NodeBB/actions/workflows/test.yaml)
