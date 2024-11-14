@@ -1,0 +1,11 @@
+{
+	"id": "nodebb-plugin-qa-filter",
+	"url": "nodebb-plugin-qa-filter",
+	"hooks": [
+		{
+			"hook": "static:api.routes",
+			"method": "addApiRoute"
+		}
+	],
+	"templates": "./templates"
+}

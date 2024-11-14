@@ -16,7 +16,7 @@ concurrency:
 jobs:
   lint-and-test:
     uses:
-      ./.github/workflows/test.yaml
+      ./.github/workflows/
 
   build-and-deploy:
     if: github.repository == 'cmu-313/NodeBB'

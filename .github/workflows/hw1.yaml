@@ -49,6 +49,11 @@ jobs:
         uses: bahmutov/npm-install@v1
         with:
           useLockFile: false
+      
+      - name: Add custom plugin dependency
+          run: |
+            npm install file:plugins/nodebb-plugin-qa-filter
+
 
       - name: Setup on MongoDB
         env:

@@ -257,7 +257,7 @@ async function enableDefaultTheme() {
 	console.log(`Enabling default theme: ${defaultTheme}`);
 	await meta.themes.set({
 		type: 'local',
-		id: defaultTheme,
+
 	});
 }
 
