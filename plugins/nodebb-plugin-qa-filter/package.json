@@ -1,0 +1,17 @@
+{
+    "name": "nodebb-plugin-qa-filter",
+    "version": "1.0.0",
+    "description": " filter plugin to Q&A for NodeBB",
+    "keywords": [
+      "nodebb",
+      "plugin",
+      "questions",
+      "answers"
+    ],
+    "license": "MIT",
+    "nbbpm": {
+      "compatibility": "^3.0.0"
+    }
+  }
+  
+  

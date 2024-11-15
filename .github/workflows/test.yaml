@@ -48,6 +48,9 @@ jobs:
         with:
           useLockFile: false
 
+      - name: Add custom plugin dependency
+        run: npm install ./plugins/nodebb-plugin-qa-filter
+
       - name: Setup for Redis
         env:
           SETUP: >-
