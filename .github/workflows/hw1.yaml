@@ -51,7 +51,7 @@ jobs:
           useLockFile: false
 
       - name: Add custom plugin dependency
-          run: |
+          run: | 
             npm install file:plugins/nodebb-plugin-qa-filter
 
       - name: Setup on MongoDB
